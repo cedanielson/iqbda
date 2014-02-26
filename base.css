@@ -1,0 +1,21 @@
+<style>
+  #page-header {
+    font: "Georgia", "Times",serif;
+}
+  #page-header h1 {
+  font: bold italic 3em "Georgia", "Times",serif ;  
+}
+  #page-header h2 {
+  fonty bold italic 1.5em: "Georgia", "Times",serif ;
+}
+  #page-title {
+  font: bold 1.8e, "Georgia", "Times",serif;
+}
+  h2 {
+  font: bolder 1.5em "Georgia", "Times",serif; 
+}
+  p {
+  font: regular 1em "Verenda", "Helvetica", "Ariel", sans-serif; 
+}
+
+</style>
